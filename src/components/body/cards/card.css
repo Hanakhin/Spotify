@@ -1,0 +1,1 @@
+.wrapper{display:flex;justify-content:center;padding-block:10px;height:-webkit-fit-content;height:-moz-fit-content;height:fit-content;padding:20px;transition:.3s}.wrapper:hover{filter:brightness(1.2)}.wrapper div{background-color:var(--bs-dark);border-radius:10px}
